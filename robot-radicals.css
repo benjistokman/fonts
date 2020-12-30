@@ -1,0 +1,29 @@
+@font-face {
+    font-family:'Robot Radicals';
+    src: url('robot-radicals/Robot Radicals.eot');
+	src: url('robot-radicals/Robot Radicals.eot?#iefix') format('embedded-opentype'),
+		url('robot-radicals/Robot Radicals.woff2') format('woff2'),
+		url('robot-radicals/Robot Radicals.woff') format('woff'),
+		url('robot-radicals/Robot Radicals.ttf') format('truetype'),
+		url('robot-radicals/Robot Radicals.otf') format('opentype'),
+		url('robot-radicals/Robot Radicals.svg#Robot Radicals') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+001D-2212;
+}
+
+@font-face {
+    font-family:'Robot Radicals';
+    src: url('robot-radicals/Robot Radicals Italic.eot');
+	src: url('robot-radicals/Robot Radicals Italic.eot?#iefix') format('embedded-opentype'),
+		url('robot-radicals/Robot Radicals Italic.woff2') format('woff2'),
+		url('robot-radicals/Robot Radicals Italic.woff') format('woff'),
+		url('robot-radicals/Robot Radicals Italic.ttf') format('truetype'),
+		url('robot-radicals/Robot Radicals Italic.otf') format('opentype'),
+		url('robot-radicals/Robot Radicals Italic.svg#Robot Radicals Italic') format('svg');
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal;
+    unicode-range: U+001D-2212;
+}
