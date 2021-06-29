@@ -3,23 +3,23 @@
   font-family: 'Minecraft';
   font-style: normal;
   font-weight: 400;
-  src: url('https://fonts.benstokman.me/MinecraftRegular.otf')
+  src: url('minecraft/MinecraftRegular.otf')
 }
 @font-face {
   font-family: 'Minecraft';
   font-style: italic;
   font-weight: 400;
-  src: url('https://fonts.benstokman.me/MinecraftItalic.otf')
+  src: url('minecraft/MinecraftItalic.otf')
 }
 @font-face {
   font-family: 'Minecraft';
   font-style: normal;
   font-weight: 700;
-  src: url('https://fonts.benstokman.me/MinecraftBold.otf')
+  src: url('minecraft/MinecraftBold.otf')
 }
 @font-face {
   font-family: 'Minecraft';
   font-style: italic;
   font-weight: 700;
-  src: url('https://fonts.benstokman.me/MinecraftBoldItalic.otf')
+  src: url('minecraft/MinecraftBoldItalic.otf')
 }

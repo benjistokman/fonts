@@ -1,55 +1,55 @@
 @font-face {
     font-family: 'Butler Stencil';
-    src: url('https://font.benstokman.me/butler-stencil/ButlerStencil-Medium.woff2') format('woff2'),
-        url('https://font.benstokman.me/butler-stencil/ButlerStencil-Medium.woff') format('woff');
+    src: url('butler-stencil/ButlerStencil-Medium.woff2') format('woff2'),
+        url('butler-stencil/ButlerStencil-Medium.woff') format('woff');
     font-weight: 500;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Butler Stencil';
-    src: url('https://font.benstokman.me/butler-stencil/ButlerStencil.woff2') format('woff2'),
-        url('https://font.benstokman.me/butler-stencil/ButlerStencil.woff') format('woff');
+    src: url('butler-stencil/ButlerStencil.woff2') format('woff2'),
+        url('butler-stencil/ButlerStencil.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Butler Stencil';
-    src: url('https://font.benstokman.me/butler-stencil/ButlerStencil-ExtraBold.woff2') format('woff2'),
-        url('https://font.benstokman.me/butler-stencil/ButlerStencil-ExtraBold.woff') format('woff');
+    src: url('butler-stencil/ButlerStencil-ExtraBold.woff2') format('woff2'),
+        url('butler-stencil/ButlerStencil-ExtraBold.woff') format('woff');
     font-weight: 800;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Butler Stencil';
-    src: url('https://font.benstokman.me/butler-stencil/ButlerStencil-Black.woff2') format('woff2'),
-        url('https://font.benstokman.me/butler-stencil/ButlerStencil-Black.woff') format('woff');
+    src: url('butler-stencil/ButlerStencil-Black.woff2') format('woff2'),
+        url('butler-stencil/ButlerStencil-Black.woff') format('woff');
     font-weight: 900;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Butler Stencil';
-    src: url('https://font.benstokman.me/butler-stencil/ButlerStencil-UltraLight.woff2') format('woff2'),
-        url('https://font.benstokman.me/butler-stencil/ButlerStencil-UltraLight.woff') format('woff');
+    src: url('butler-stencil/ButlerStencil-UltraLight.woff2') format('woff2'),
+        url('butler-stencil/ButlerStencil-UltraLight.woff') format('woff');
     font-weight: 200;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Butler Stencil';
-    src: url('https://font.benstokman.me/butler-stencil/ButlerStencil-Bold.woff2') format('woff2'),
-        url('https://font.benstokman.me/butler-stencil/ButlerStencil-Bold.woff') format('woff');
+    src: url('butler-stencil/ButlerStencil-Bold.woff2') format('woff2'),
+        url('butler-stencil/ButlerStencil-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Butler Stencil';
-    src: url('https://font.benstokman.me/butler-stencil/ButlerStencil-Light.woff2') format('woff2'),
-        url('https://font.benstokman.me/butler-stencil/ButlerStencil-Light.woff') format('woff');
+    src: url('butler-stencil/ButlerStencil-Light.woff2') format('woff2'),
+        url('butler-stencil/ButlerStencil-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
 }

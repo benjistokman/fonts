@@ -2,6 +2,8 @@
 
 This site hosts many open Fonts. These are hosted for use on my own websites, but feel free to import them to your sites using the URLs below
 
+This site is also available at [benstokman.me/fonts](https://benstokman.me/fonts)
+
 ## Butler
 
 ![Butler](butler/cover.png)
@@ -27,8 +29,6 @@ This site hosts many open Fonts. These are hosted for use on my own websites, bu
 ```
 @import url('https://fonts.benstokman.me/crimson-pro.css');
 ```
-
-
 
 ## Georgia
 
@@ -99,8 +99,6 @@ This site hosts many open Fonts. These are hosted for use on my own websites, bu
 ```
 @import url('https://fonts.benstokman.me/poppins.css')
 ```
-
-
 
 ## Robot Radicals
 

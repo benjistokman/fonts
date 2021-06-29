@@ -3,5 +3,5 @@
   font-family: 'Nasalization';
   font-style: normal;
   font-weight: 400;
-  src: url('https://fonts.benstokman.me/nasalization.ttf')
+  src: url('nasalization/nasalization.woff') format('woff')
 }
