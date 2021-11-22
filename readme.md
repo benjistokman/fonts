@@ -2,6 +2,12 @@
 
 This site hosts many open Fonts. These are hosted for use on my own websites, but feel free to import them to your sites using the URLs below
 
+## Built Titling
+
+```css
+@import url('https://fonts.benstokman.me/built-titling.css');
+```
+
 ## Butler
 
 ![Butler](butler/cover.png)
@@ -108,6 +114,14 @@ Free for noncommercial use only. See download link for more
 
 ```css
 @import url('https://fonts.benstokman.me/robot-radicals.css')
+```
+
+## Share Tech
+
+[Download Font](https://fonts.google.com/specimen/Share+Tech)
+
+```css
+@import url('https://fonts.benstokman.me/share-tech.css');
 ```
 
 ## Share Tech Mono
