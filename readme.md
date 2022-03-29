@@ -10,8 +10,6 @@ This site hosts many open Fonts. These are hosted for use on my own websites, bu
 
 ## Butler
 
-![Butler](butler/cover.png)
-
 [Download Font](https://fabiandesmet.com/portfolio/butler-Font/)
 
 ```css
@@ -42,8 +40,6 @@ This site hosts many open Fonts. These are hosted for use on my own websites, bu
 
 ## Manrope
 
-![Manrope Cover](manrope/cover.png)
-
 [Download Font](https://manropeFont.com/)
 
 ```css
@@ -60,8 +56,6 @@ This site hosts many open Fonts. These are hosted for use on my own websites, bu
 
 ## Montserrat
 
-![Montserrat Cover](montserrat/cover.png)
-
 [Download Font](https://Fonts.google.com/specimen/Montserrat)
 
 ```css
@@ -70,8 +64,6 @@ This site hosts many open Fonts. These are hosted for use on my own websites, bu
 
 ## Nasalization
 
-![Nasalizaton Cover](nasalization/cover.png)
-
 [Download Font](https://www.daFont.com/nasalization.Font)
 
 ```css
@@ -79,8 +71,6 @@ This site hosts many open Fonts. These are hosted for use on my own websites, bu
 ```
 
 ## Odibee Sans
-
-![Odibee Sans Cover](odibee-sans/cover.png)
 
 [Download Font](http://odibeesans.com/)
 
@@ -106,8 +96,6 @@ This site hosts many open Fonts. These are hosted for use on my own websites, bu
 
 ## Robot Radicals
 
-![Robot Radicals Cover](robot-radicals/cover.png)
-
 Free for noncommercial use only. See download link for more
 
 [Download Font](https://www.daFont.com/robot-radicals.Font)
@@ -126,13 +114,21 @@ Free for noncommercial use only. See download link for more
 
 ## Share Tech Mono
 
-![Share Tech Mono Cover](share-tech-mono/cover.png)
-
 [Download Font](https://fonts.google.com/specimen/Share+Tech+Mono)
 
 ```css
 @import url('https://fonts.benstokman.me/share-tech-mono.css');
 ```
+
+### THICCBOI
+
+[Download Font](https://fontesk.com/thicccboi-typeface/)
+
+```css
+@import url('https://fonts.benstokman.me/thicccboi.css');
+```
+
+
 
 ## Zen Tokyo Zoo
 

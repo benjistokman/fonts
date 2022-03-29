@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'THICCCBOI';
+  font-style: normal;
+  font-weight: 100;
+  src: url('thiccboi/THICCCBOI-Thin.woff2')  format('woff2');
+}
+
+@font-face {
+  font-family: 'THICCCBOI';
+  font-style: normal;
+  font-weight: 300;
+  src: url('thiccboi/THICCCBOI-Light.woff2')  format('woff2');
+}
+
+@font-face {
+  font-family: 'THICCCBOI';
+  font-style: normal;
+  font-weight: 400;
+  src: url('thiccboi/THICCCBOI-Regular.woff2')  format('woff2');
+}
+
+@font-face {
+  font-family: 'THICCCBOI';
+  font-style: normal;
+  font-weight: 500;
+  src: url('thiccboi/THICCCBOI-Medium.woff2')  format('woff2');
+}
+
+@font-face {
+  font-family: 'THICCCBOI';
+  font-style: normal;
+  font-weight: 600;
+  src: url('thiccboi/THICCCBOI-SemiBold.woff2')  format('woff2');
+}
+
+@font-face {
+  font-family: 'THICCCBOI';
+  font-style: normal;
+  font-weight: 700;
+  src: url('thiccboi/THICCCBOI-Bold.woff2')  format('woff2');
+}
+
+@font-face {
+  font-family: 'THICCCBOI';
+  font-style: normal;
+  font-weight: 800;
+  src: url('thiccboi/THICCCBOI-ExtraBold.woff2')  format('woff2');
+}
+
+@font-face {
+  font-family: 'THICCCBOI';
+  font-style: normal;
+  font-weight: 900;
+  src: url('thiccboi/THICCCBOI-Black.woff2')  format('woff2');
+}
+
+@font-face {
+  font-family: 'THICCCBOI';
+  font-style: normal;
+  font-weight: 1000;
+  src: url('thiccboi/THICCCBOI-ThicccAF.woff2')  format('woff2');
+}
